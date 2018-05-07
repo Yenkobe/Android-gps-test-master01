@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "516942061575",
+    "firebase_url": "https://knupluss.firebaseio.com",
+    "project_id": "knupluss",
+    "storage_bucket": "knupluss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516942061575:android:f51f87cda0730f89",
+        "android_client_info": {
+          "package_name": "yen.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516942061575-6h8si800ql6lon6o7s937dg86ksqqp7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9WfFUEQ19ZPd5XUTe5Wrhe9H_pXJ4ss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
